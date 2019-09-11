@@ -7,5 +7,5 @@ builtin methods를 사용하지 않고 스스로의 해결책을 찾으며 Scala
 
 ## resolved problem list
 
-P01 (\*) Find the last element of a list.  
-P02 (\*) Find the last but one element of a list.  
+- P01 (*) Find the last element of a list.  
+- P02 (*) Find the last but one element of a list.  
