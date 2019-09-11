@@ -19,8 +19,6 @@ def last[A](list: List[A]): A = {
     case _ :: tail => last(tail)
     case Nil => throw new Exception("list is empty")
   }
-
-  list.last
 }
 
 // Nil : element 가 없는 List 를 의미
