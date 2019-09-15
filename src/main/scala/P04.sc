@@ -21,3 +21,11 @@ def length[A](list: List[A]): Int = {
 
 
 length(List(1, 2, 3, 4))
+
+
+// Solution 에서 제공한 조금 더 함수형스러운 해결 방안
+// fold에 대해서도 정리 할 필요가 있다
+def lengthFunctional[A](ls: List[A]): Int = ls.foldLeft(0) { (c, _) => c + 1 }
+
+lengthFunctional(List(1, 2, 3, 4))
+
