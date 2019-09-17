@@ -15,3 +15,4 @@ builtin methods를 사용하지 않고 스스로의 해결책을 찾으며 Scala
 - P05 (*) Reverse a list.
 - P06 (*) Find out whether a list is a palindrome.
 - P07 (**) Flatten a nested list structure.
+- P08 (**) Eliminate consecutive duplicates of list elements.
