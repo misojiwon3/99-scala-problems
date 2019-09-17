@@ -2,9 +2,9 @@
 
 > Your goal should be to find the most elegant solution of the given problems. Efficiency is important, but clarity is even more crucial. Some of the (easy) problems can be trivially solved using built-in functions. However, in these cases, you learn more if you try to find your own solution.
 
-단순 결과 도출이 목적이 아니고 `우아한 해결책`을 찾는 것이 이 프로젝트의 목표이다.  
-builtin methods를 사용하지 않고 스스로의 해결책을 찾으며 Scala에 대해 더 배운다.  
-문제 번호 옆의 `*`는 문제의 난이도를 의미한다.  
+1. 단순 결과 도출이 목적이 아니고 `우아한 해결책`을 찾는 것이 이 프로젝트의 목표이다.  
+2. builtin methods를 사용하지 않고 스스로의 해결책을 찾으며 Scala에 대해 더 배운다.  
+3. 문제 번호 옆의 `*`는 문제의 난이도를 의미한다.  
 
 ## resolved problem list
 
