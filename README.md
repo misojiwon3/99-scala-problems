@@ -16,3 +16,4 @@
 - P06 (*) Find out whether a list is a palindrome.
 - P07 (**) Flatten a nested list structure.
 - P08 (**) Eliminate consecutive duplicates of list elements.
+- P09 (**) Pack consecutive duplicates of list elements into sublists.
