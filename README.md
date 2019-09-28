@@ -23,3 +23,4 @@
 - P13 (**) Run-length encoding of a list (direct solution).
 - P14 (*) Duplicate the elements of a list.
 - P15 (**) Duplicate the elements of a list a given number of times.
+- P16 (**) Drop every Nth element from a list.
