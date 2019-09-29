@@ -27,3 +27,4 @@
 - P16 (**) Drop every Nth element from a list.
 - P17 (*) Split a list into two parts.
 - P18 (**) Extract a slice from a list.
+- P19 (**) Rotate a list N places to the left.
