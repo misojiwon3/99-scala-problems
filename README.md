@@ -8,6 +8,7 @@
 
 ## resolved problem list
 
+### Working with lists
 - P01 (*) Find the last element of a list.  
 - P02 (*) Find the last but one element of a list.  
 - P03 (*) Find the Kth element of a list.
@@ -18,7 +19,6 @@
 - P08 (**) Eliminate consecutive duplicates of list elements.
 - P09 (**) Pack consecutive duplicates of list elements into sublists.
 - P10 (*) Run-length encoding of a list.
-
 - P11 (*) Modified run-length encoding.
 - P12 (**) Decode a run-length encoded list.
 - P13 (**) Run-length encoding of a list (direct solution).
@@ -29,3 +29,15 @@
 - P18 (**) Extract a slice from a list.
 - P19 (**) Rotate a list N places to the left.
 - P20 (*) Remove the Kth element from a list.
+
+### Arithmetic
+
+### Logic and Codes
+
+### Binary Trees
+
+### Multiway Trees
+
+### Graphs
+
+### Miscellaneous Problems
