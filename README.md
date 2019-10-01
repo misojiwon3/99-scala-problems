@@ -28,3 +28,4 @@
 - P17 (*) Split a list into two parts.
 - P18 (**) Extract a slice from a list.
 - P19 (**) Rotate a list N places to the left.
+- P20 (*) Remove the Kth element from a list.
