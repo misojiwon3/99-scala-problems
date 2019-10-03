@@ -29,6 +29,7 @@
 - P18 (**) Extract a slice from a list.
 - P19 (**) Rotate a list N places to the left.
 - P20 (*) Remove the Kth element from a list.
+- P21 (*) Insert an element at a given position into a list.
 
 ### Arithmetic
 
